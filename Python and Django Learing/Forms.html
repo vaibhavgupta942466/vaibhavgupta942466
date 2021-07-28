@@ -5,15 +5,54 @@
     <title>Form</title>
 </head>
 <body>
-    <form>
+    <!-- <form action="https://www.facebook.com" method="get">
         <h1>Log In</h1>
         <h2>Please Input your Email and Password</h2>
-        <input type="email" name="useremail" value="Email Here">
-        <input type="password" name="password">
+        <input type="email" name="Email" value="">
         <input type="submit" value="Click Me">
-        <input type="color" name="Colour">
-        <input type="text" value="About Yourself">
         
+    </form> -->
+    <!-- <form>
+        <label for="">
+            Enter text:
+            <input type="text">
+        </label>
+        <label for="">
+            Enter 2nd Text:
+            <input type="text">
+        </label>
+    </form> -->
+    <!-- <form action="">
+        <label for="userinput">Enter Input:</label>
+        <input type="text" id="userinput">
+    </form> -->
+    <!-- <form action="">
+        <label for="useremail">Enter Email Here:</label>
+        <input id="useremail" type="email" placeholder="Email Here" required>
+        <input type="text" placeholder="About Yourself">
+    </form> -->
+    <h1>Feedback Form</h1>
+    <form action="">
+        <h3>are You from inside the usa?</h3>
+        
+        <label for="inusa">Inside:</label>
+        <input type="radio" name="loc" id="inusa" value="Inside">
+
+        <label for="outusa">Outside:</label>
+        <input type="radio" name="loc" id="outusa" value="Outside">
+
+        <h4>How Was our service</h4>
+
+        <select name="stars" id="">
+            <option value="Great">3</option>
+            <option value="okay">2</option>
+            <option value="bad">1</option>
+        </select>
+        <h2>Any Other Suggestion?</h2>
+        <textarea name="Extra Feedback" cols="80" rows="10"></textarea>
+        <input type="submit" value="Submit">
+
     </form>
+     
 </body>
 </html>
