@@ -1,0 +1,61 @@
+/* h1{
+    color: rgb(238, 174, 95);
+}
+p{
+    color: rgb(114, 102, 88);
+}
+li{
+    color: coral;
+}
+h3{
+    color: rgba(114, 102, 88, 0);
+} */
+/* body{
+    background-color: darkgray;
+}
+div{
+    background-color: antiquewhite;
+    border-color: blue;
+    border-width: 2px;
+    border-style: dotted;
+}
+p{
+    color: yellowgreen;
+}
+
+span{
+    background: red;
+    color: black;
+} */
+/* .FirstDiv{
+    color: blueviolet;
+}
+.SecondDiv{
+    color: red;
+}
+#singledout{
+    color: aquamarine;
+}
+*{
+    color: black;
+} */
+/*h3 +ul{
+    border: 4px dotted purple;
+}
+li a{
+    color: brown;
+    border-style: dotted;
+}
+li a[href="www.npr.org"]{
+    color: blue;
+} */
+li{
+    color: red;
+}
+.topitem{
+    color: blue;
+}
+#two{
+    border: 3px solid black;
+    color: aqua;
+}
