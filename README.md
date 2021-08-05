@@ -7,8 +7,8 @@
 - 👀 I’m interested in programming language,Web and app development, Cyber Security,Database-management-system,Data Science,Dark Web, Cryptography 
 - 🌱 I’m currently learning in University Institute of Technology, RGPV Bhopal INDIA.
 - 💞️ I’m looking to collaborate with other open source projects
-<!-- - ⚡ Fun fact: I love to draw, play guitar and support dad at the Hardware shop
-- 👀 I’m interested in programming language,Web and app development, Cyber Security,Database-management-system,Data Science,Dark Web, Cryptography 
+- ⚡ Fun fact: I love to draw, play guitar and support dad at the Hardware shop
+<!-- - 👀 I’m interested in programming language,Web and app development, Cyber Security,Database-management-system,Data Science,Dark Web, Cryptography 
 - 🌱 I’m currently learning in University Institute of Technology, RGPV Bhopal INDIA. 
 - 💞️ I’m looking to collaborate on Cyber Security,Bug bounty,web and app development 
 - 📫 How to reach me \\My Email is vaibhavgupta942466@gmail.com 
