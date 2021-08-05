@@ -15,7 +15,7 @@
 ### Connect with me:
 
 [<img src="READme/Images/ce093c7214ad357bb665cfd2f66a8b6b.png" alt="" width="25px" />][linkedin]
-[<img src="READme/Images/9b9787fb5209b99c3207554a341e3f32.png" alt="" width="25px" />][instagram]
+[<img src="READme/Images/9b9787fb5209b99c3207554a341e3f32.png" alt="" width="40px" />][instagram]
 [<img src="READme/Images/download(1).png" alt="" width="25px" />][gmail]
 <!---
 vaibhavgupta942466/vaibhavgupta942466 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
