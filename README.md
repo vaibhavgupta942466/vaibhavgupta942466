@@ -14,8 +14,8 @@
                      \\My Linkedin Profile https://www.linkedin.com/in/vaibhav-gupta-337120193/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B7dsW%2FXq8Q46ty4B2urJ%2FMQ%3D%3D -->
 ### Connect with me:
 
-[<img src="READme/Images/ce093c7214ad357bb665cfd2f66a8b6b.png" alt="" width="25px" />][linkedin]
-[<img src="READme/Images/9b9787fb5209b99c3207554a341e3f32.png" alt="" width="40px" />][instagram]
+[<img src="READme/Images/link.png" alt="" width="25px" />][linkedin]
+[<img src="READme/Images/instagram.png" alt="" width="40px" />][instagram]
 [<img src="READme/Images/download(1).png" alt="" width="25px" />][gmail]
 <!---
 vaibhavgupta942466/vaibhavgupta942466 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
