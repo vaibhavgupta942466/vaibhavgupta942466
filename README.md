@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m Vaibhav Gupta
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vaibhav94246689?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=Vaibhav94246689)
+
 ## I'm a Student,Developer,Pentester
 - 👨‍🎓 I'm currently working in a VS Code and learning everytthing
 - 👀 I’m interested in programming language,Web and app development, Cyber Security,Database-management-system,Data Science,Dark Web, Cryptography 
