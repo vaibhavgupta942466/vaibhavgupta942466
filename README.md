@@ -15,6 +15,8 @@
 ### Connect with me:
 
 [<img src="READme/Images/ce093c7214ad357bb665cfd2f66a8b6b.png" alt="" width="25px" />][linkedin]
+[<img src="READme/Images/9b9787fb5209b99c3207554a341e3f32.png" alt="" width="25px" />][instagram]
+[<img src="READme/Images/download(1).png" alt="" width="25px" />][gmail]
 <!---
 vaibhavgupta942466/vaibhavgupta942466 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -23,3 +25,5 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 [linkedin]: https://www.linkedin.com/in/vaibhav-gupta-337120193/
+[instagram]: https://www.instagram.com/vg._nucleus/?utm_medium=copy_link
+[gmail]: vaibhavgupta942466@gmail.com
