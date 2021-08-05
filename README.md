@@ -20,16 +20,16 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="35px" src="READme/Images/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="READme/Images/html5.png" />
-<img align="left" alt="CSS3" width="35px" src="READme/Images/css.png" />
-<img align="left" alt="C Programming" width="35px" src="READme/Images/c-programming.png" />
-<img align="left" alt="C++" width="35px" src="READme/Images/C++.png" />
-<img align="left" alt="MySQL" width="35px" src="READme/Images/sql.png" />
-<img align="left" alt="MongoDB" width="35px" src="READme/Images/mongodb.png" />
-<img align="left" alt="Git" width="35px" src="READme/Images/git.png" />
-<img align="left" alt="GitHub" width="35px" src="READme/Images/github.png" />
-<img align="left" alt="Terminal" width="35px" src="READme/Images/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="40px" src="READme/Images/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="40px" src="READme/Images/html5.png" />
+<img align="left" alt="CSS3" width="40px" src="READme/Images/css.png" />
+<img align="left" alt="C Programming" width="40px" src="READme/Images/c-programming.png" />
+<img align="left" alt="C++" width="40px" src="READme/Images/C++.png" />
+<img align="left" alt="MySQL" width="40px" src="READme/Images/sql.png" />
+<img align="left" alt="MongoDB" width="40px" src="READme/Images/mongodb.png" />
+<img align="left" alt="Git" width="40px" src="READme/Images/git.png" />
+<img align="left" alt="GitHub" width="40px" src="READme/Images/github.png" />
+<img align="left" alt="Terminal" width="40px" src="READme/Images/terminal.png" />
 <!---
 vaibhavgupta942466/vaibhavgupta942466 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
