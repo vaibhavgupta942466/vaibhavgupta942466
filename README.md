@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 
 [linkedin]: https://www.linkedin.com/in/vaibhav-gupta-337120193/
 [instagram]: https://www.instagram.com/vg._nucleus/?utm_medium=copy_link
-[gmail]: vaibhavgupta942466@gmail.com
+[gmail]: mailto:vaibhavgupta942466@gmail.com
