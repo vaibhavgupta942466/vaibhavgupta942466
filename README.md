@@ -16,6 +16,7 @@
 
 [<img align="left" src="READme/Images/gmail.png" alt="" width="45px" />][gmail]
 [<img align="left" src="READme/Images/link.png" alt="" width="40px" />][linkedin]
+[<img align="left" src="READme/Images/twitter.png" width ="40px"/>][twitter]
 [<img align="left" src="READme/Images/instagram.png" alt="" width="40px" />][instagram]
 <br />
 
@@ -40,3 +41,4 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: https://www.linkedin.com/in/vaibhav-gupta-337120193/
 [instagram]: https://www.instagram.com/vg._nucleus/?utm_medium=copy_link
 [gmail]: mailto:vaibhavgupta942466@gmail.com
+[twitter]: https://twitter.com/Vaibhav94246689
