@@ -14,7 +14,7 @@
                      \\My Linkedin Profile https://www.linkedin.com/in/vaibhav-gupta-337120193/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B7dsW%2FXq8Q46ty4B2urJ%2FMQ%3D%3D -->
 ### Connect with me:
 
-[<img align="left" src="READme/Images/gmail.png" alt="" width="43px" />][gmail]
+[<img align="left" src="READme/Images/gmail.png" alt="" width="45px" />][gmail]
 [<img align="left" src="READme/Images/link.png" alt="" width="40px" />][linkedin]
 [<img align="left" src="READme/Images/instagram.png" alt="" width="40px" />][instagram]
 <br />
