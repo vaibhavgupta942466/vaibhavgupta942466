@@ -1,0 +1,24 @@
+.button_align{
+    text-align: center;
+    padding-bottom: 25px;
+    padding-top: 20px;
+}
+#custom_button{
+    background-color:rgba(241, 121, 8, 0.616);
+    color: snow;
+    border-radius: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: chocolate;
+}
+.container{
+    border-radius: 2px;
+}
+#ram{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 4px solid rgb(206, 47, 47);
+    font-size: 60px;
+    color: rgb(42, 116, 255);
+}
