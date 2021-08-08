@@ -36,7 +36,7 @@
 <br />
 
 ### Self Made Game:
-<img align="left" alt="Match_4_Game" width="50px" scr="READme/Images/match_4.png" />
+<img align="left" alt="Match_4_Game" width="40px" scr="READme/Images/match_4.png" />
 
 <!---
 vaibhavgupta942466/vaibhavgupta942466 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
