@@ -49,4 +49,4 @@ You can click the Preview link to take a look at your changes.
 [instagram]: https://www.instagram.com/vg._nucleus/?utm_medium=copy_link
 [gmail]: mailto:vaibhavgupta942466@gmail.com
 [twitter]: https://twitter.com/Vaibhav94246689
-[match4game]:file:///C:/Users/vaibh/Full%20Stack%20Development/vaibhavgupta942466/JQuery/PROJECT.html
+[match4game]:file:///JQuery/PROJECT.html
