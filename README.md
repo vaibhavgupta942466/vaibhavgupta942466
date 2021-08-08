@@ -14,7 +14,7 @@
 - 📫 How to reach me \\My Email is vaibhavgupta942466@gmail.com 
                      \\My Insta link is https://www.instagram.com/vg._nucleus/?utm_medium=copy_link
                      \\My Linkedin Profile https://www.linkedin.com/in/vaibhav-gupta-337120193/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B7dsW%2FXq8Q46ty4B2urJ%2FMQ%3D%3D -->
-### Connect with me:
+## Connect with me:
 
 [<img align="left" src="READme/Images/gmail.png" alt="" width="45px" />][gmail]
 [<img align="left" src="READme/Images/link.png" alt="" width="40px" />][linkedin]
@@ -22,7 +22,7 @@
 [<img align="left" src="READme/Images/instagram.png" alt="" width="40px" />][instagram]
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="40px" src="READme/Images/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="40px" src="READme/Images/html5.png" />
 <img align="left" alt="CSS3" width="40px" src="READme/Images/css.png" />
@@ -35,7 +35,7 @@
 <img align="left" alt="Terminal" width="40px" src="READme/Images/terminal.png" />
 <br />
 
-### Self Made Game:
+## Self Made Game:
 [<img align="left" alt="Terminal" width="40px" src="READme/Images/match_4.png" />][match4game]
 
 <!---
