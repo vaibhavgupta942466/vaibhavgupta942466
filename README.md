@@ -32,7 +32,7 @@
 <img align="left" alt="MongoDB" width="40px" src="READme/Images/mongodb.png" />
 <img align="left" alt="Git" width="40px" src="READme/Images/git.png" />
 <img align="left" alt="GitHub" width="40px" src="READme/Images/github.png" />
-<img align="left" alt="Terminal" width="40px" src="READme/Images/terminal.png" />
+<img align="left" alt="Terminal" width="40px" src="READme/Images/match_4.png" />
 <br />
 
 ### Self Made Game:
