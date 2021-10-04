@@ -1,4 +1,4 @@
-"""Django URL Configuration
+"""Pro_Two URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.2/topics/http/urls/
@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from django.urls import path
-from fitst_app import views
+from App_Two import views
 
 urlpatterns = [
     url(r'^$',views.index,name='index'),
