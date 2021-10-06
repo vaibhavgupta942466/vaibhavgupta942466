@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- {% comment %} <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -8,5 +8,18 @@
     <h1>Hello This is index.html</h1>
     {{ insert_me }}
     
+</body>
+</html> {% endcomment %} -->
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Django Guitar Page</title>
+    <link rel="stylesheet" href="{% static "css/mystyle.css" %}">
+</head>
+<body>
+    <h1><em>Hi, this is a picture of Django himself</em></h1>
+    <img src="{% static "images/download.jpg" %}" alt="Uh Oh, didn't show!">
 </body>
 </html>
