@@ -1,0 +1,424 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>AI Generated Faces</title>
+    <meta charset="windows-1252" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="We trained our AI to create fake people." name="description" />
+    <meta content="AI photos, fake celebs, fake celebrities, fake faces" name="keywords" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <link rel="stylesheet" href="style.css">
+<style>
+  @media screen and (max-width:767px) and (min-width:320px) {
+    center table{
+      width:90%;
+    }
+  }
+</style>
+<script data-ad-client="ca-pub-8348187590713387" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+</head>
+
+
+<body>
+    <Table align=center width=80%>
+        <TD align=center>
+
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-161314-54"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-161314-54');
+</script>
+
+<div class="center_section">
+<div class="text-center logo"><A HREF="https://boredhumans.com"><img class="img-responsive" id="myimg" src="https://boredhumans.b-cdn.net/images/logo.jpg" height="90" width="354"></a>
+</div>     
+      
+            <div id="content">
+
+                    <center>
+                        <font size="6"><B>Fake People</B></font><BR>
+                 Our AI was trained to create fake people, using a database of 70,000 of photos of real humans. To be clear, the images below are of people that do not exist. They are not real, they are AI generated.
+         </center>
+
+            </div>
+
+            <form id="api_faces2">
+
+
+<input id="name1" type="hidden" type="text" value="a">
+
+    </div>
+
+</td>
+</table>
+<BR>
+
+<Table align=center>
+<TD width=75% align=center> 
+
+                <div class="buttons_lyric">
+                    
+					  <span class="control">
+                        <button type="submit" name="submit" id="generate-text" class="button is-link">
+                            <span class="icon">
+                                <i class="fas fa-md fa-pen"></i>
+                            </span><span>Generate Another Fake Human!</span></button>
+                    </span>
+
+                </div>
+		         </form>
+                <div id="extra-buttons" class="buttons">
+                    <span class="control">
+                </div>
+            </div>
+            <div id="model-output" class="column" align=center>
+<img src="https://boredhumans.b-cdn.net/faces2/901.jpg" alt="901" height="256" width="256" />                   </em></p>
+
+</TD>
+</table>
+
+            </div>
+            </div>
+            </div>
+
+<center><BR><BR>
+Below is an older version that creates much less realistic, but more interesting-looking faces:
+<BR>
+</center>
+
+        </section>
+
+    </center>
+
+</td>
+</table>
+<BR>
+
+<form id="face_api">
+
+    </div>
+
+</td>
+</table>
+
+<Table align=center>
+<TD width=75% align=center> 
+
+                <div class="buttons_lyric">
+                     <span class="control">
+                        <button type="submit" name="submit" id="generate-text_2" class="button is-link">
+                            <span class="icon">
+                                <i class="fas fa-md fa-pen"></i>
+                            </span><span>Generate A Human!</span></button>
+                    </span>
+
+                </div>
+		         </form>
+                <div id="extra-buttons" class="buttons">
+                    <span class="control">
+                </div>
+            </div>
+            <div id="model-output2" class="column" align=center>
+                <p id="tutorial" class="subtitle"><em>Your fake human will appear here in a few seconds!
+                    </em></p>
+
+</TD>
+</table>
+
+
+            </div>
+            </div>
+            </div>
+        </section>
+
+    </center>
+
+</td>
+</table>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous">
+    </script>
+
+    <script type="text/javascript">
+
+
+
+	/* 
+	      $(document).ready(function(){
+                $("#clkMe").click(function(){
+                    var dataString={};
+					 
+					 if($('#name1').val()){
+                    $.ajax({                                      
+                        url:"api_faces2.php",
+                        type: 'POST',
+                        cache:false,
+            						dataType : "html",
+                        contentType: "application/x-www-form-urlencoded",
+                        data: dataString,
+                        beforeSend: function() {},
+                        timeout:10000,
+                        error: function() { },     
+                        success: function(response) {
+                             $('#generate-text').removeClass("is-loading");
+                        $('#generate-text').prop("disabled", false);
+                        $('#tutorial').remove();
+                      
+                                $('#model-output').html("");
+                                    
+                                    var html = '<div class=\"gen-box\">' + response + '</div><div class="gen-border"></div>';
+                                    $(html).appendTo('#model-output').hide().fadeIn("slow");
+                          
+                        } 
+                    });
+					
+					 }
+					 else{
+
+                        $('#generate-text').removeClass("is-loading");
+                        $('#generate-text').prop("disabled", false);
+                        $('#tutorial').remove();
+						 $('#model-output').html("");
+                        var html = '<div class="gen-box warning">Please fill in the form! Please try again!</div><div class="gen-border"></div>';
+                        $(html).appendTo('#model-output').hide().fadeIn("slow");
+                }
+					
+                });
+            }); */
+	
+   $(function() {
+            $('#api_faces2').submit(function(e) {		
+                e.preventDefault();
+                $.ajax({
+                    type: "POST",
+                     url:"api_faces2.php",
+                        type: 'POST',
+						 data:{'stories':true},
+                        cache:false,
+            						dataType : "html",
+                        contentType: "application/x-www-form-urlencoded",
+                    beforeSend: function(data) {
+                        $('#generate-text').addClass("is-loading");
+                        $('#generate-text').prop("disabled", true);
+                        var html = '';
+                        title = '';
+
+                    },
+                   
+						 success: function(data) {
+							 if(data)
+							 {
+                             $('#generate-text').removeClass("is-loading");
+                        $('#generate-text').prop("disabled", false);
+                        $('#tutorial').remove();
+                      
+                                $('#model-output').html("");
+                                    
+                                    var html = '<div class=\"gen-box\">' + data + '</div><div class="gen-border"></div>';
+                                    $(html).appendTo('#model-output').hide().fadeIn("slow");
+							 }
+							 else {
+                                    $('#generate-text').removeClass("is-loading");
+                                    $('#generate-text').prop("disabled", false);
+                                    $('#tutorial').remove();
+                                    var html = '<div class="gen-box warning">Please try again!</div><div class="gen-border"></div>';
+                                    $(html).appendTo('#model-output').hide().fadeIn("slow");
+                                }
+                        
+                    },
+                    error: function(jqXHR, textStatus, errorThrown) {
+                        $('#generate-text').removeClass("is-loading");
+                        $('#generate-text').prop("disabled", false);
+                        $('#tutorial').remove();
+                        var html = '<div class="gen-box warning">Please try again!</div><div class="gen-border"></div>';
+                        $(html).appendTo('#model-output').hide().fadeIn("slow");
+                    }
+                });
+            });
+            });
+    
+    </script>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous">
+    </script>
+
+    <script type="text/javascript">
+	
+
+
+
+
+   $(function() {
+            $('#face_api').submit(function(e) {		
+                e.preventDefault();
+                $.ajax({
+                    type: "POST",
+                     url:"api_faces.php",
+                        type: 'POST',
+						 data:{'stories':true},
+                        cache:false,
+            						dataType : "html",
+                        contentType: "application/x-www-form-urlencoded",
+                    beforeSend: function(data) {
+                        $('#generate-text_2').addClass("is-loading");
+                        $('#generate-text_2').prop("disabled", true);
+                        var html = '';
+                        title = '';
+
+                    },
+                   
+						 success: function(data) {
+							 if(data)
+							 {
+                             $('#generate-text_2').removeClass("is-loading");
+                        $('#generate-text_2').prop("disabled", false);
+                        $('#tutorial').remove();
+                      
+                                $('#model-output2').html("");
+                                    
+                                    var html = '<div class=\"gen-box2\">' + data + '</div><div class="gen-border"></div>';
+                                    $(html).appendTo('#model-output2').hide().fadeIn("slow");
+							 }
+							 else {
+                                    $('#generate-text_2').removeClass("is-loading");
+                                    $('#generate-text_2').prop("disabled", false);
+                                    $('#tutorial').remove();
+                                    var html = '<div class="gen-box2 warning">Please try again!</div><div class="gen-border"></div>';
+                                    $(html).appendTo('#model-output2').hide().fadeIn("slow");
+                                }
+                        
+                    },
+                    error: function(jqXHR, textStatus, errorThrown) {
+                        $('#generate-text_2').removeClass("is-loading");
+                        $('#generate-text_2').prop("disabled", false);
+                        $('#tutorial').remove();
+                        var html = '<div class="gen-box2 warning">Please try again!</div><div class="gen-border"></div>';
+                        $(html).appendTo('#model-output2').hide().fadeIn("slow");
+                    }
+                });
+            });
+            });
+  
+    
+    </script>
+
+    <BR>
+    <Table align=center width=70%>
+        <TD align=center>
+
+                                <center>
+<font size="3">The faces on this page are made using machine learning, which is a type of artificial intelligence. To accomplish this, a generative adversarial network (GAN) was trained where one part of it has the goal of creating fake faces, and another part of it has the goal of detecting fake faces. Over time, it gets better and better at trying to produce synthetic faces that pass for real ones.  
+<BR><BR>                        
+                        
+                        </font>                   </center>
+
+
+         </td>
+</table>
+
+<center>
+<font size="4"><B>More Artificial Intelligence From BoredHumans.com:</B></font>
+<table width="50%">
+<TD>
+</center>
+<BR>
+<UL>
+<LI><A HREF="../lyrics_generator.php" target="new"><B>Lyrics Generator</B></a> - Our AI writes hit songs.</LI>
+<LI><A HREF="../art.php" target="new"><B>AI Paintings</B></a> - Our AI creates art.</LI>
+<LI><A HREF="../pizza.php" target="new"><B>This Pizza Does Not Exist</B></a> - Generated by a computer.</LI>
+<LI><A HREF="../falling_sand.php" target="new"><B>Falling Sand</B></a> - Play with lava, water, napalm and more.</LI>
+<LI><A HREF="../photo_blender.php" target="new"><B>Photo Blender</B></a> - Two beautiful photos combined into one.</LI>
+<LI><A HREF="../tv_shows.php" target="new"><B>TV Episode Generator</B></a> - Game of Thrones, The Simpsons, Friends, and more.</LI>
+<LI><A HREF="../story_generator.php" target="new"><B>Story Generator</B></a> - Our AI will tell you a story.</LI>
+<LI><A HREF="../movies.php" target="new"><B>AI Colorized Movies</B></a> - Watch classic films for free.</LI>
+<LI><A HREF="../word_generator.php" target="new"><B>New Words</B></a> - These words do not exist.</LI>
+<LI><A HREF="../media_search.php" target="new"><B>Photo Search</B></a> - AI detects what is in each photo.</LI>
+<LI><A HREF="../metal_lyrics_generator.php" target="new"><B>Heavy Metal Lyrics Generator</B></a> - Our AI rocks!</LI>
+<LI><A HREF="../faces.php" target="new"><B>Fake People</B></a> - AI-generated faces.</LI>
+<LI><A HREF="../quotes.php" target="new"><B>Quote Generator</B></a> - AI thoughts to inspire you.</LI>
+<LI><A HREF="../deepfakes.php" target="new"><B>Deepfake Videos</B></a> - Elon Musk in Reefer Madness, Joe Exotic - Lost Movie Footage, Donald Trump - Gaslight, and Logan Paul - Tiger King.</LI>
+<LI><A HREF="../game_idea_generator.php"><B>Video Game Ideas</B></a> - Our AI thinks up new games.
+<LI><A HREF="../dreams.php" target="new"><B>AI Dreams</B></a> - What does a computer dream?</LI>
+<LI><A HREF="../movie_plots.php" target="new"><B>Movie Plot Generator</B></a> - Movies that do not exist.</LI>
+<LI><A HREF="../music.php" target="new"><B>AI Music</B></a> - Listen to music our AI created</LI>
+<LI><A HREF="../research_papers.php" target="new"><B>Academic Paper Generator</B></a> - The AI writes papers like on arXiv.org.</LI>
+<LI><A HREF="../anime_stories.php" target="new"><B>Anime Stories</B></a> - Read an AI-generated anime story.</LI>
+<LI><A HREF="../video_montages.php" target="new"><B>Movie Montage Maker</B></A> - Type a word or phrase.</LI>
+<LI><A HREF="../insults.php" target="new"><B>Insult Battle</B></a> - We dare you to insult our AI.</LI>
+<LI><A HREF="../poetry_generator.php" target="new"><B>Poetry Generator</B></a> - Our AI is a poet.</LI>
+<LI><A HREF="../metal_website.php" target="new"><B>Website To Heavy Metal Song Converter</B></a> - Enter a URL.</LI>
+<LI><A HREF="../happy.php" target="new"><B>Happy Moments</B></a> - What makes humans happy?</LI>
+<LI><A HREF="../band_name_generator.php" target="new"><B>Band Name Generator</B></a> - Hundreds of fun band names.</LI>
+<LI><A HREF="../jokes.php" target="new"><B>Joke Battle</B></a> - Can you tell a better joke than our AI?</LI>
+<LI><A HREF="../business_ideas.php" target="new"><B>Business Ideas</B></a> - Our AI will help you make money.</LI>
+<LI><A HREF="../meme_generator.php" target="new"><B>Meme Generator</B></a> - Memes written by an AI.</LI>
+<LI><A HREF="../neural_style_transfer.php" target="new"><B>Neural Style Transfer</B></a> - Photos turned into paintings.</LI>
+<LI><A HREF="../baby_name_generator.php" target="new"><B>Baby Name Generator</B></a> - Unique baby names.</LI>
+<LI><A HREF="../yelling.php" target="new"><B>Get Yelled At</B></a> - Our AI will get mad at you.</LI>
+<LI><A HREF="../anime_images.php" target="new"><B>Waifu Images</B></a> - These anime characters do not really exist.</LI>
+<LI><A HREF="../inventions.php" target="new"><B>Invention Generator</B></a> - Ideas for new products.</LI>
+<LI><A HREF="../dogs.php" target="new"><B>Fake Dogs</B></a> - AI-generated dogs.</LI>
+<LI><A HREF="../superhero.php" target="new"><B>Superhero Name Generator</B></a> - Find your superhero name.</LI>
+<LI><A HREF="../confessions.php" target="new"><B>Confessions</B></a> - Our AI has secrets.</LI>
+<LI><A HREF="../writing_prompts.php" target="new"><B>Writing Prompts</B></a> - Our AI starts the story, you finish it.</LI>
+<LI><A HREF="../patents.php" target="new"><B>Patent Generator</B></a> - Turn any website into a patent application.</LI>
+<LI><A HREF="../video_articles.php" target="new"><B>Video Articles</B></a> - Brought to life by AI.</LI>
+<LI><A HREF="../anagrams.php" target="new"><B>Anagram Generator</B></a> - Words formed by rearranging the letters.</LI>
+<LI><A HREF="../slogans.php" target="new"><B>Ad Slogan Generator</B></a> - Taglines for your company or product.</LI>
+<LI><A HREF="../nft.php" target="new"><B>Make Money With NFTs</B></a> - Sell our free content on the blockchain.</LI>
+<LI><A HREF="https://yachts.com/nft/" target="new"><B>Boat NFT Generator</B></a> - Upload a photo of your boat and the AI will turn it into digital art for free, which you can then sell as an NFT.</LI>
+<LI><A HREF="../music_videos.php" target="new"><B>Music Video Maker</B></a> - 100% automated, no editing skills needed. For songwriters and bands to be able to post their songs to YouTube or social media.</LI>
+<LI><A HREF="../chat.php"><B>Chat Bot</B></a> - Talk with our AI about anything you want.</LI>
+<LI><A HREF="../games.php" target="new"><B>AI Games</B></a> - Pong, Slime Volleyball, and more.</LI>
+<LI><A HREF="../demos.php" target="new"><B>AI Demos</B></a> - See how machine learning and genetic algorithms work.</LI>
+</UL>
+<BR>
+<UL>
+
+<LI><B>Coming Soon - Choose Your Own Aventure</B></a> - An interactive story generated by our AI.</LI>
+</UL>
+
+
+
+
+
+</td>
+</table>
+<BR>
+<BR>
+<a href="https://boredhumans.com">Back To BoredHumans.com Main Page</a>
+<BR>
+<A HREF="https://boredhumans.com/privacy.php" target="new">Privacy Policy</A><BR>
+(We do not save your info, sell your personal data, or do anything else to violate your privacy)
+<BR><BR>
+Copyright: The design of this site is Copyright 2021 by BoredHumans.com.
+
+ <footer class="footer">
+        <div class="content has-text-centered">
+            <p>
+                Our fake face generator was made using <a href="https://github.com/pfnet-research/chainer-stylegan" target="_blank"><strong>Chainer StyleGAN</strong></a> from pfnet-research, which is licensed <a href="http://opensource.org/licenses/mit-license.php" target="_blank">MIT</a>. The older version of our program used <a href="https://github.com/taki0112/StyleGAN-Tensorflow" target="_blank"><strong>StyleGAN-Tensorflow</strong></a>
+which is licensed <a href="http://opensource.org/licenses/mit-license.php" target="_blank">MIT</a>, and also <a href="https://github.com/facebookresearch/pytorch_GAN_zoo" target="_blank"><strong>Pytorch GAN Zoo</strong></a> which is licensed <a href="https://github.com/facebookresearch/pytorch_GAN_zoo/blob/master/LICENSE" target="_blank">BSD 3-Clause "New" or "Revised" License</a>   . The database of faces that was used to train the machine learning models was <a href="https://github.com/NVlabs/ffhq-dataset" target="_blank"><strong>Flickr-Faces-HQ (FFHQ)</strong></a>
+
+            </p>
+        </div>
+    </footer>
+
+
+
+</html>
+</body>
