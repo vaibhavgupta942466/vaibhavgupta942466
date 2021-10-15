@@ -38,14 +38,14 @@
 
     <div class="djangotwo">
 
-        {% if access_records %}
+        {% if access_record %}
         <table>
             <thead>
                 <th>Site name</th>
                 <th>Data Accessed</th>
             </thead>
 
-            {% for acc in access_records %}
+            {% for acc in access_record %}
             <tr>
                 <td>{{ acc.name }}</td>
                 <td>{{ acc.date }}</td>
@@ -56,6 +56,9 @@
         {% else %}
         <p>NO ACCESS RECORDS FOUND!</p>
         {% endif %}
+
+    <h1><em>Hi, this is a picture of Django himself</em></h1>
+    <img src="{% static "images/download.jpg" %}" alt="Uh Oh, didn't show!">
 
 
     </div>
