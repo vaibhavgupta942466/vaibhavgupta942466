@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- {% comment %} <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,5 +20,21 @@
     </ol>
 
     {% endif %}
+</body>
+</html> {% endcomment %} -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Users</title>
+</head>
+<body>
+    <h1>Please Sign Up Here!</h1>
+    <form method="POST">
+        {{form.as_p}}
+        {% csrf_token %}
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>
