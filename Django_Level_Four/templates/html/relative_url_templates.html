@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome To Relative URL templates</h1>
+    <!-- <a href="basic_app/other.html">The Other Page</a> -->
+    <a href="{% url 'basic_app:other' %}">Check Me Please!</a>
+    <a href="{% url 'admin:index' %}">I am admin</a>
+    <a href="{% url 'index' %}">Chalo Index Chale</a>
+</body>
+</html>
