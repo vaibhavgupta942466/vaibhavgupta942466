@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Welcome To Index!</title>
-</head>
-<body>
-    
-</body>
-</html>
+{% extends "html/base.html" %}
+  {% block body_block %}
+
+  <h1>You Guys are in index dot Html</h1>
+  <h2>Chalo aage Chale</h2>
+  {{ text|upper }}
+  {{ number|add:'99' }}
+  {% endblock %}
