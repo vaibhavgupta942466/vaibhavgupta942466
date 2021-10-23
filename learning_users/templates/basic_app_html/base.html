@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <nav>
+        <div>
+            <ul>
+                <li><a href="{% url 'index' %}">DJANGO HOME</a></li>
+                <li><a href="{% url 'admin:index' %}">ADMIN SITE</a></li>
+                <li><a href="{% url 'basic_app:register' %}">REGISTER</a></li>
+
+                {% if user.is_authenticated %}
+                  <li><a href="{% url 'logout' %}">LogOut</a></li>
+                {% else %}
+                  <li><a href="{% url 'basic_app:user_login' %}">Login</a></li>
+                {% endif %}
+
+            </ul>
+        </div>
+    </nav>
+    
+    <div>
+        {% block body_block %}
+        {% endblock %}
+    </div>
+</body>
+</html>
